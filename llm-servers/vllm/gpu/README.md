@@ -1,3 +1,7 @@
+DEPRECATION NOTICE
+
+Since vLLM container images are now fully part of OpenDataHub or OpenShift AI, the image defined here is not updated anymore.
+
 # vLLM Deployment
 
 Example deployment of the [vLLM](https://github.com/vllm-project/vllm) server for OpenShift.
